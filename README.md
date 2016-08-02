@@ -39,16 +39,21 @@ The Opencart Fashion App comes with enormous features and can service as a power
 3. App Set up
 4. Free Support for bug and error fixing
 5. Life time free updates
-6. nstallation Guide
+
+# Installation Guide
 
 Don’t worry if you are entirely new to this. Our Installation guide will help you easily sail through your endeavour of getting an Opencart Shopping cart App for your Fashion retail. All you need to do this is, carefully follow the step-by-step instructions in the Installation guide. In no time, you will see that you have successfully installed and configured your Fashion shopping cart App and it is all set to go into the Mobile market. Find the installation guide in the following link. 
-(Link for the Installation guide)
+
+##[Opencart OC2APP API Configuration](https://github.com/developersuresh/opencart-ionic-mobile-app/tree/master/Opencart%20API%20Configuration)
+##[Ionic Mobile App Configuration](https://github.com/developersuresh/opencart-ionic-mobile-app/tree/master/Ionic%20App%20Configuration)
+
 
 #Support
 
 * Do you think you will need our help for installation and configuration of the App?
 * Do you find any gaps in the App that is making it not completely suiting your Fashion business?
 * Are you looking for any customizations for the App to make it apt for your Fashion retail business?
+
 Do get in touch with us with any queries you have or to seek any services – Technical help or Customizations. We are always at your disposal to help you. Kindly contact us at suresh@piccosoft.com with any queries. We shall assist you further. 
 
 #Demo
