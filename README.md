@@ -11,10 +11,9 @@ The Opencart Fashion App comes with enormous features and can service as a power
 
 #  Features
 
-![alt text](/img/home.png “App Home Screen”)
+![alt text](/img/home.png "App Home Screen")
+![alt text](/img/checkout.png "Checkout Screen")
 
-
-![alt text](/img/checkout.png “Checkout Screen”)
 
 ## The App comes with several enticing features 
 
