@@ -11,7 +11,9 @@ The Opencart Fashion App comes with enormous features and can service as a power
 
 #  Features
 
-![alt text](https://github.com/developersuresh/opencart-ionic-mobile-app/blob/master/Ionic%20App%20Configuration/img/home.png “App Home Screen”)![alt text](https://github.com/developersuresh/opencart-ionic-mobile-app/blob/master/Ionic%20App%20Configuration/img/checkout.png “Checkout Screen”)
+![alt text](https://raw.githubusercontent.com/developersuresh/opencart-ionic-mobile-app/master/Ionic%20App%20Configuration/img/home.png “App Home Screen”)
+
+![alt text](https://raw.githubusercontent.com/developersuresh/opencart-ionic-mobile-app/master/Ionic%20App%20Configuration/img/checkout.png “Checkout Screen”)
 
 ## The App comes with several enticing features 
 
