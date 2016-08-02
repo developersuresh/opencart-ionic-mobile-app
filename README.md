@@ -10,11 +10,13 @@ Imagine if your customers can shop from your Fashion app, for their favourite br
 The Opencart Fashion App comes with enormous features and can service as a powerful and robust Hybrid app for your eCommerce business. You can just buy this open source, customizable Opencart App and develop a Fashion App for your business. 
 
 #  Features
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ## The App comes with several enticing features 
 
 * Fully customizable 
 * Hybrid mobile app built with Ionic framework 
-* Central database 
 * Intuitive admin dashboard
 * Opencart OC2APP Rest API integrated 
 * Login, Register and Forgot Password
@@ -44,9 +46,8 @@ The Opencart Fashion App comes with enormous features and can service as a power
 
 Don’t worry if you are entirely new to this. Our Installation guide will help you easily sail through your endeavour of getting an Opencart Shopping cart App for your Fashion retail. All you need to do this is, carefully follow the step-by-step instructions in the Installation guide. In no time, you will see that you have successfully installed and configured your Fashion shopping cart App and it is all set to go into the Mobile market. Find the installation guide in the following link. 
 
-##[Opencart OC2APP API Configuration](https://github.com/developersuresh/opencart-ionic-mobile-app/tree/master/Opencart%20API%20Configuration)
-##[Ionic Mobile App Configuration](https://github.com/developersuresh/opencart-ionic-mobile-app/tree/master/Ionic%20App%20Configuration)
-
+###[Opencart OC2APP API Configuration](https://github.com/developersuresh/opencart-ionic-mobile-app/tree/master/Opencart%20API%20Configuration)
+###[Ionic Mobile App Configuration](https://github.com/developersuresh/opencart-ionic-mobile-app/tree/master/Ionic%20App%20Configuration)
 
 #Support
 
