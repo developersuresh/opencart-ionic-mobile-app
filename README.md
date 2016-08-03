@@ -11,8 +11,8 @@ The Opencart Fashion App comes with enormous features and can service as a power
 
 #  Features
 
-![alt text](/img/home.png "App Home Screen")
-![alt text](/img/checkout.png "Checkout Screen")
+![alt text](/img/banner.png "Opencart App Features")
+
 
 
 ## The App comes with several enticing features 
@@ -43,6 +43,10 @@ The Opencart Fashion App comes with enormous features and can service as a power
 3. App Set up
 4. Free Support for bug and error fixing
 5. Life time free updates
+
+# Where can I buy Opencart App?
+
+A small, yet a strong team of formidable Mobile App developers have brought a remarkable Mobile App solution, an open source Opencart based custom Mobile App solution into the Mobile market. You can buy this easy, yet powerful solution at www.opencart-app.com.
 
 # Installation Guide
 
