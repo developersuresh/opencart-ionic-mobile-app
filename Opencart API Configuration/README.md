@@ -8,7 +8,8 @@
 
 Login to the Backend/Admin with your User ID and Password. 
 
-Figure 1: Login
+
+![alt text](/img/login.png "Opencart App Features")
 
 #### Step 2:
 
