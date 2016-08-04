@@ -50,7 +50,7 @@ Under ‘Extensions’, click on ‘Extension Installer’.
 Next, click on ‘Upload’ option.
 Upload oc2app API Plugin (ZIP Files).
 
-![alt text](/img/apiInstal.png "Extension Installer")
+![alt text](/img/apiInstall.png "Extension Installer")
 
 Once uploaded, it will automatically get installed. 
 Then, it will display a success message. 
@@ -66,7 +66,7 @@ Here, it will display the oc2app API Plugin (Zip files) that was uploaded and in
 Click on the ‘Refresh’ option on the right hand corner. 
 
 
-Figure 8: Refresh for Successful Modification
+![alt text](/img/modifications.png "Opencart Settings")
 
 Then, it will display a success message. 
 Step 5: 
@@ -75,14 +75,14 @@ Go to ‘Modules’.
 
 
 
-Figure 9: Modules
+![alt text](/img/apiInstall.png "Opencart Settings")
 
 Here, it will display the installed oc2app API alongside.
 Click on the option to install it. 
 Then, click on ‘Edit’ option. 
 
 
-Figure 10: Enabling the Installed Plugin
+![alt text](/img/apiconfig.png "Opencart Settings")
 
 Then, by default, it will show as enabled and it will also Access key TTL. 
 Provide Access ID and Password. 
