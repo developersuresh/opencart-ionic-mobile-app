@@ -9,7 +9,7 @@
 Login to the Backend/Admin with your User ID and Password. 
 
 
-![alt text](/img/login.png "Opencart Login”)
+![alt text](/img/login.png "Opencart Login")
 
 #### Step 2:
 
@@ -18,14 +18,14 @@ Under ‘System’ Go to ‘Settings’.
 
 
 
-![alt text](/img/setting.png "Opencart Settings”)
+![alt text](/img/setting.png "Opencart Settings")
 
 
 Under ‘Settings’, you will find the default store. 
 Click on the ‘Edit’ option on the right. 
 
 
-![alt text](/img/editsetting.png "Opencart Settings”)
+![alt text](/img/editsetting.png "Opencart Settings")
 
 
 In the next screen, Go to’ FTP’.
@@ -45,12 +45,12 @@ Under ‘Extensions’, click on ‘Extension Installer’.
 
 
 
-![alt text](/img/extensionInstaller.png “Extension Installer”)
+![alt text](/img/extensionInstaller.png "Extension Installer")
 
 Next, click on ‘Upload’ option.
 Upload oc2app API Plugin (ZIP Files).
 
-![alt text](/img/apiInstal.png “Extension Installer”)
+![alt text](/img/apiInstal.png "Extension Installer")
 
 Once uploaded, it will automatically get installed. 
 Then, it will display a success message. 
