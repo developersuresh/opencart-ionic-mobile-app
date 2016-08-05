@@ -39,20 +39,19 @@ Go to ‘Modifications’.
 
 
 
-Here, it will display the oc2app API Plugin (Zip files) that was uploaded and installed, as told in ‘Step 3’, alongside showing if the API plugin is enabled or disabled. If not enabled, you can just click on the ‘enable’ option to enable it. 
+Here, it will display the oc2app API Plugin (Zip files) that was uploaded and installed, as told in ‘Step 2’, alongside showing if the API plugin is enabled or disabled. If not enabled, you can just click on the ‘enable’ option to enable it. 
 Click on the ‘Refresh’ option on the right hand corner. 
 
 
-![alt text](/img/o_4.png "Opencart Settings")
-
 Then, it will display a success message. 
-Step 4: 
+
+#### Step 4: 
 
 Go to ‘Modules’.
 
 
 
-![alt text](/img/o_5.png "Opencart Settings")
+![alt text](/img/o_4.png "Opencart Settings")
 
 Here, it will display the installed oc2app API alongside.
 Click on the option to install it. 
@@ -69,5 +68,5 @@ Then, Click on ‘Save’.
 
 Step: 6
 
-In .HT Access, paste the files we provide. 
-In case of .HT Access not present, paste the files in the Root Folder. 
+In .htccess, paste the files we provided. 
+In case of .htaccess not present, paste the files in the root folder. 
