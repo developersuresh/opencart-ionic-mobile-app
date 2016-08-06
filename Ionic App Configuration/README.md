@@ -14,7 +14,7 @@
 	   
 ##### step4:  Use the App file and folders (www , scss , resources ,bower,package,config,gulpfile) we have provided to replace the blank project you have created.
 
-		![alt text](/img/a_1.png "folder structure")
+  ![alt text](/img/a_1.png "folder structure")
 		
 ##### step5:  Open app.module file(www/app/app.module) and replace the site url in line no ,Use the screen shot for reference.
 

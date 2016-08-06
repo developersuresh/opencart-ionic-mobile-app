@@ -60,13 +60,8 @@ Then, click on ‘Edit’ option.
 
 ![alt text](/img/o_5.png "Opencart Settings")
 
-Then, by default, it will show as enabled and it will also Access key TTL. 
-Provide Access ID and Password. 
 Then, Click on ‘Save’.
 
 
 
-Step: 6
 
-In .htccess, paste the files we provided. 
-In case of .htaccess not present, paste the files in the root folder. 

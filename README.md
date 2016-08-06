@@ -67,9 +67,9 @@ Do get in touch with us with any queries you have or to seek any services – Te
 
 We understand that you would definitely want to have a glimpse of what you are going to purchase. We do agree that you should not shell down your money on something that may not completely suit your business tomorrow. 
 
-Have a look at a demo that takes you on a quick journey into the App features and functions, and pay for it only if you think it is 100 percent right for your Fashion business. Find the demo in the following link. 
+Have a look at a demo that takes you on a quick journey into the App features and functions, and pay for it only if you think it is 100 percent right for your Fashion business. Find the demo in the following View. 
 
-(Link for the demo)
+View Id : 53B6FC67
 
 #Conclusion
 Take your already established Fashion business a step ahead of others in the market. 
